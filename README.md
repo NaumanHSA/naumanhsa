@@ -1,28 +1,19 @@
 <!--Banner-->
-<!-- ![Nouman's Banner Image](./public/banner.png) -->
-
 <a href="https://naumanhsa.github.io/me/">
     <img width="100%" src="./public/banner.png" alt="Me" />
 </a>
 
-
-<!-- 🚀 **Gen AI Engineer** • **Machine Learning Specialist** • **Builder at Heart** -->
-
-<center>
-
-> _To seamlessly connect innovation with implementation — delivering technologies that matter._
-
-</center>
+<p align="center">
+  <em>To seamlessly connect innovation with implementation — delivering technologies that matter.</em>
+</p>
 
 <a href="https://naumanhsa.github.io/me/" target="_blank">
   <img width="12%" src="https://img.shields.io/badge/Portfolio-%230d1117?style=for-the-badge&logo=briefcase&logoColor=white" alt="My Portfolio" />
 </a>
 
-<center>
+<h1 align="center">🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ</h1>
 
-# 🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ
-
-<table width="100%">
+<table align="center" width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center">      
       <img src="./public/tech-stack.gif" alt="Rotating Tech Sphere" />
@@ -51,21 +42,32 @@
 <br />
 
 
-## 🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝
+<h1 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h1>
 
-[![Email](https://img.shields.io/badge/Email-%230d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naumanhsa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomihsa965)
-[![Fiverr](https://img.shields.io/badge/Fiverr-%230d1117?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/naumanhsa965)
-[![Instagram](https://img.shields.io/badge/Instagram-%230d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nomihsa965)
+<p align="center">
+  <a href="mailto:naumanhsa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%230d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/nomihsa965">
+    <img src="https://img.shields.io/badge/LinkedIn-%230d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.fiverr.com/naumanhsa965">
+    <img src="https://img.shields.io/badge/Fiverr-%230d1117?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
+  <a href="https://instagram.com/nomihsa965">
+    <img src="https://img.shields.io/badge/Instagram-%230d1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 
 <!--Banner-->
 <br clear="both">
 
-<img src="public/banner-snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="public/banner-snake.svg" alt="Snake animation" />
+</p>
+
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-</center>
