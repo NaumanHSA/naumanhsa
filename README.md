@@ -30,7 +30,7 @@
 <h3>💡 Highlights</h3>
 <ul>
   <li>🧠 Built LLM-powered data agents for conversational queries</li>
-  <li>📲 Led full document scanning & OCR pipeline (backend + SDKs)</li>
+  <li>📲 Led full document scanning & OCR pipeline</li>
   <li>✒️ Designed signature segmentation & enhancement workflows</li>
   <li>☁️ Deployed on cloud & edge (AWS, Jetson, Android)</li>
 </ul>
