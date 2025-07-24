@@ -11,32 +11,31 @@
   <img width="12%" src="https://img.shields.io/badge/Portfolio-%230d1117?style=for-the-badge&logo=briefcase&logoColor=white" alt="My Portfolio" />
 </a>
 
-<h1 align="center">🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ</h1>
+<h1 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ & 🔍 Rᴇᴄᴇɴᴛ Fᴏᴄᴜs</h1>
 
-<table align="center" width="100%" cellspacing="0" cellpadding="10">
-  <tr>
-    <td width="50%" align="center">
-      <img src="./public/tech-stack.gif" alt="Rotating Tech Sphere" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔍 Recent Focus</h3>
-      <ul>
-        <li>Agentic AI systems</li>
-        <li>Retrieval-Augmented Generation (RAG)</li>
-        <li>Lightweight OCR for mobile & edge</li>
-        <li>Vision–Language workflows for document intelligence</li>
-      </ul>
-      <h3>💡 A few quick hits:</h3>
-      <ul>
-        <li>🧠 Built LLM-based data agents for conversational query</li>
-        <li>📲 Led full document scanning + OCR stack (backend + offline SDKs)</li>
-        <li>📝 Trained OCR (English & Arabic) for edge devices</li>
-        <li>✒️ Signature segmentation/enhancement pipelines</li>
-        <li>☁️ Cloud & edge deployment: AWS, Jetson, Android</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./public/tech-stack.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./public/tech-stack.gif">
+  <img align="left" src="./public/tech-stack.gif" alt="Rotating Tech Sphere" width="50%" />
+</picture>
+
+<h3>🔍 Recent Focus</h3>
+<ul>
+  <li>Agentic AI systems & reasoning-driven tools</li>
+  <li>Retrieval-Augmented Generation (RAG) pipelines</li>
+  <li>Lightweight OCR (English & Arabic) for mobile & edge</li>
+  <li>Vision–Language workflows for document intelligence</li>
+</ul>
+
+<h3>💡 Highlights</h3>
+<ul>
+  <li>🧠 Built LLM-powered data agents for conversational queries</li>
+  <li>📲 Led full document scanning & OCR pipeline (backend + SDKs)</li>
+  <li>✒️ Designed signature segmentation & enhancement workflows</li>
+  <li>☁️ Deployed on cloud & edge (AWS, Jetson, Android)</li>
+</ul>
+
+<br clear="left" />
 
 
 <h1 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h1>
