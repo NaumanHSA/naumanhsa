@@ -13,33 +13,30 @@
 
 <h1 align="center">🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ</h1>
 
-<table align="center" width="100%" cellspacing="0" cellpadding="0" style="border:none">
-  <tr style="border:none">
-    <td width="50%" align="center" style="border:none">      
+<table align="center" width="100%" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="50%" align="center">
       <img src="./public/tech-stack.gif" alt="Rotating Tech Sphere" />
     </td>
-    <td width="50%" valign="top" style="border:none">
-      <div style="text-align: left; font-size: 1rem; line-height: 1.6;">
-        <h3>🔍 Recent Focus</h3>
-        <ul>
-          <li>Agentic AI systems</li>
-          <li>Retrieval-Augmented Generation (RAG)</li>
-          <li>Lightweight OCR for mobile & edge</li>
-          <li>Vision–Language workflows for document intelligence</li>
-        </ul>
-        <h3>💡 A few quick hits:</h3>
-        <ul>
-          <li>🧠 Built LLM-based data agents for conversational query</li>
-          <li>📲 Led full document scanning + OCR stack (backend + offline SDKs)</li>
-          <li>📝 Trained OCR (English & Arabic) for edge devices</li>
-          <li>✒️ Signature segmentation/enhancement pipelines</li>
-          <li>☁️ Cloud & edge deployment: AWS, Jetson, Android</li>
-        </ul>
-      </div>
+    <td width="50%" valign="top">
+      <h3>🔍 Recent Focus</h3>
+      <ul>
+        <li>Agentic AI systems</li>
+        <li>Retrieval-Augmented Generation (RAG)</li>
+        <li>Lightweight OCR for mobile & edge</li>
+        <li>Vision–Language workflows for document intelligence</li>
+      </ul>
+      <h3>💡 A few quick hits:</h3>
+      <ul>
+        <li>🧠 Built LLM-based data agents for conversational query</li>
+        <li>📲 Led full document scanning + OCR stack (backend + offline SDKs)</li>
+        <li>📝 Trained OCR (English & Arabic) for edge devices</li>
+        <li>✒️ Signature segmentation/enhancement pipelines</li>
+        <li>☁️ Cloud & edge deployment: AWS, Jetson, Android</li>
+      </ul>
     </td>
   </tr>
 </table>
-<br />
 
 
 <h1 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h1>
