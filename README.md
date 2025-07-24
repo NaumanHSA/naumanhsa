@@ -13,12 +13,12 @@
 
 <h1 align="center">🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ</h1>
 
-<table align="center" width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center">      
+<table align="center" width="100%" cellspacing="0" cellpadding="0" style="border:none">
+  <tr style="border:none">
+    <td width="50%" align="center" style="border:none">      
       <img src="./public/tech-stack.gif" alt="Rotating Tech Sphere" />
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border:none">
       <div style="text-align: left; font-size: 1rem; line-height: 1.6;">
         <h3>🔍 Recent Focus</h3>
         <ul>
